@@ -9,7 +9,7 @@ Use hyb26-skill to build a MicroPython Universe 2026 badge tide clock for Fort M
 
 <img width="320" height="240" alt="tide-clock-screenshot-2026-10-24-1410" src="https://github.com/user-attachments/assets/e221fa4d-df3e-42d6-b5be-eb1f0b6d15d4" />
 
-### Art Frame to download art from the Cleveland Museum of Art 
+### Art Frame to download art from the Cleveland Museum of Art Prompt
 
 use the hyb26-skill, Build a MicroPython MonaOS app for the GitHub Universe badge that displays CC0 paintings from the Cleveland Museum of Art on its 320×240 screen. Fetch randomized 
 painting candidates from `https://openaccess-api.clevelandart.org/api/artworks/` (filter for paintings with images and CC0 access), then use `https://images.weserv.nl/` to resize 
